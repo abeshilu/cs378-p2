@@ -1,0 +1,28 @@
+body {
+  padding-top: 10px;
+}
+
+.subheading {
+  color: orange;
+}
+
+.subsubText {
+  font-style: italic;
+}
+
+.menuText {
+  font-size: medium;
+}
+
+.button {
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 50px;
+  color: black;
+  width: auto;
+}
+
+.images {
+  width: auto;
+  height: auto;
+}
