@@ -14,15 +14,35 @@ body {
   font-size: medium;
 }
 
-.button {
-  background-color: lightblue;
-  border: 1px solid black;
-  border-radius: 50px;
-  color: black;
-  width: auto;
-}
-
 .images {
   width: auto;
   height: auto;
+}
+
+.quantity {
+  display: flex;
+  align-items: center;
+}
+
+.minus,
+.plus {
+  background-color: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.subtotal {
+  width: 50px;
+  text-align: center;
+  padding: 5px;
+  border: 1px black;
+}
+
+.value {
+  width: 50px;
+  text-align: center;
+  padding: 5px;
+  border: 1px black;
 }
