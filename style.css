@@ -46,3 +46,19 @@ body {
   padding: 5px;
   border: 1px black;
 }
+
+.orderedButton {
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 50px;
+  color: black;
+  width: auto;
+}
+
+.clearAllButton {
+  background-color: lightgray;
+  border: 1px solid black;
+  border-radius: 50px;
+  color: black;
+  width: auto;
+}
